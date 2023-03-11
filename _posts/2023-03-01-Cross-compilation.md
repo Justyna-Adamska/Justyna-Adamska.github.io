@@ -71,5 +71,4 @@ Hello world! (",)
 
 Yes, I couldn't resist to put this emoji at the end :)
 
-We are happy that we accomplished the important milestone: we launched our NanoPi board:)
 
